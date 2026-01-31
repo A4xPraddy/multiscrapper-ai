@@ -16,7 +16,7 @@ import re
 # We can reuse our logic from the root folder by importing or copying
 # For a clean fullstack app, I'll put the core logic here or in a utils file.
 
-from scraper import scrape_website, clean_body_content
+from .scraper import scrape_website, clean_body_content
 from PIL import Image
 import base64
 
