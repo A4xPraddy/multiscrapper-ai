@@ -4,7 +4,7 @@
 
 MultiScrapper AI is a powerful, full-stack application that allows you to extract, summarize, and interact with content from various sources (Web, YouTube, PDFs) using state-of-the-art AI models (**Gemini 2.0** & **Groq Llama 3**).
 
-![Project Screenshot](frontend/public/screenshot_placeholder.png)
+
 
 ## ✨ Key Features
 
